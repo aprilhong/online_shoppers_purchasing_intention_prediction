@@ -1,0 +1,10 @@
+matplotlib
+mkdocs
+numpy
+pandas
+scikit-learn
+seaborn
+pip
+ydata_profiling
+ipywidgets
+# -e .
