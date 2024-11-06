@@ -5,6 +5,6 @@ pandas
 scikit-learn
 seaborn
 pip
-ydata_profiling
-ipywidgets
+pathlib
+urllib
 # -e .
